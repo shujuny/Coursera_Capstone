@@ -6,4 +6,4 @@ Techniques used in this project includes:
   - Foursquare API
   - Data Visualization using Folium
   - Data manipulation using numpy and pandas
-  - Clustering both manually and using K-Means
+  - Clustering using K-Means
